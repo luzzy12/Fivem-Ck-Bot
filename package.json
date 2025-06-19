@@ -1,0 +1,20 @@
+{
+  "name": "wcommunity",
+  "version": "0.0.1",
+  "description": "prometheus w community özel",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "keywords": [
+    "p"
+  ],
+  "author": "prometheus",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.17.1",
+    "fs": "^0.0.1-security",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.7"
+  }
+}
